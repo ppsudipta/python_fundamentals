@@ -1,15 +1,6 @@
 # python_fundamentals
 All My Practice Files
-<p align="center">
- <img src="https://ibb.co/1fm3JwF" height="100px"></p>
-<p align="center">
- <img src="https://ibb.co/b1mvdZQ" height="100px"></p>
-<p align="center">
- <img src="https://ibb.co/zPkhdYP" height="100px"></p>
- 
- 
-![alt text](https://github.com/ppsudipta/python_fundamentals/blob/master/coach.png?raw=true)
-
  ![alt text](https://github.com/ppsudipta/rooftop/blob/master/sc/coach.png?raw=true)
-
+ ![alt text](https://github.com/ppsudipta/rooftop/blob/master/sc/available.png?raw=true)
+ ![alt text](https://github.com/ppsudipta/rooftop/blob/master/sc/appointment.png?raw=true)
 
